@@ -54,8 +54,7 @@
               "RelativeToolTip": "Interfaces\\IUserPrintOperations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:48:32.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T08:48:32.708Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Interfaces\\IUserOperations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:30:49.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T08:30:49.089Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADwvwsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:59:34.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:59:34.389Z"
             },
             {
               "$type": "Document",
@@ -91,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T13:54:24.142Z",
               "EditorCaption": ""
@@ -99,19 +96,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AonHelloWorld",
+              "Title": "AonHelloWorld.csproj",
               "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\AonHelloWorld.csproj",
               "RelativeDocumentMoniker": "AonHelloWorld.csproj",
               "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\AonHelloWorld.csproj",
               "RelativeToolTip": "AonHelloWorld.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T08:29:38.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-11T08:29:38.751Z"
             },
             {
               "$type": "Document",
@@ -123,8 +115,7 @@
               "RelativeToolTip": "Models\\Client.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:58:12.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:58:12.479Z"
             },
             {
               "$type": "Document",
@@ -136,8 +127,7 @@
               "RelativeToolTip": "Models\\SystemUser.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:57:39.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:57:39.587Z"
             },
             {
               "$type": "Document",
@@ -149,8 +139,11 @@
               "RelativeToolTip": "Models\\Freelancer.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:21:28.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:21:28.391Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
