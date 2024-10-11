@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\aon\\AonHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\interfaces\\iuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:interfaces\\iuseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\interfaces\\iuserprintoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:interfaces\\iuserprintoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\aonhelloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:aonhelloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|e:\\work\\aon\\aonhelloworld\\models\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D13BDE-DF06-4894-AB75-F847CCFF690C}|AonHelloWorld.csproj|solutionrelative:models\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserPrintOperations.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Interfaces\\IUserPrintOperations.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserPrintOperations.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Interfaces\\IUserPrintOperations.cs",
+              "RelativeToolTip": "Interfaces\\IUserPrintOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:48:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserOperations.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Interfaces\\IUserOperations.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserOperations.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Interfaces\\IUserOperations.cs",
+              "RelativeToolTip": "Interfaces\\IUserOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:30:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:59:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:54:24.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AonHelloWorld",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\AonHelloWorld.csproj",
+              "RelativeDocumentMoniker": "AonHelloWorld.csproj",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\AonHelloWorld.csproj",
+              "RelativeToolTip": "AonHelloWorld.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T08:29:38.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:58:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "Models\\SystemUser.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Models\\SystemUser.cs",
+              "RelativeToolTip": "Models\\SystemUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:57:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "E:\\Work\\aon\\AonHelloWorld\\Models\\Freelancer.cs",
+              "RelativeDocumentMoniker": "Models\\Freelancer.cs",
+              "ToolTip": "E:\\Work\\aon\\AonHelloWorld\\Models\\Freelancer.cs",
+              "RelativeToolTip": "Models\\Freelancer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:21:28.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
